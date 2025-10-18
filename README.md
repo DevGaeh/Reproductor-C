@@ -56,11 +56,3 @@ Consejos y solución de problemas
 Contribuciones
 --------------
 - Pull requests y mejoras son bienvenidas. Para cambios en el código fuente, añade comentarios claros y actualiza este README si cambias el comportamiento esperado o el formato de `Biblioteca.txt`.
-
-Licencia
---------
-- Este proyecto no incluye una licencia explícita en el repositorio. Añade un archivo `LICENSE` si deseas publicar el proyecto con una licencia concreta.
-
-Contacto
---------
-- Si necesitas ayuda con la compilación o quieres que adapte el README (por ejemplo, añadir instrucciones para GCC/MinGW u otros formatos de `Biblioteca.txt`), dime cómo quieres que lo detalle.
